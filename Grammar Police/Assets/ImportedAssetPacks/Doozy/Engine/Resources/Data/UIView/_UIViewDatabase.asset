@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 889794c411054f7ca8e6fbdc6728c846, type: 3}
+  m_Name: _UIViewDatabase
+  m_EditorClassIdentifier: 
+  DatabaseType: 2
+  CategoryNames:
+  - Custom
+  - Example
+  - General
+  - PoliceQuestion_PopUpPanel
+  - MiniLesson
+  - SquintingModifier_MiniLesson
+  Categories:
+  - {fileID: 11400000, guid: b01e98f4801f7124ba39e1dac4debf90, type: 2}
+  - {fileID: 11400000, guid: d7b22ffca2639944f9ee8cc21d53796f, type: 2}
+  - {fileID: 11400000, guid: fcbeef1275da34d4d835327b9561e4da, type: 2}
+  - {fileID: 11400000, guid: c72fc46b9eec70a4593c1be19a3fe8c7, type: 2}
+  - {fileID: 11400000, guid: a2a7322f64535474687a545b91131f59, type: 2}
