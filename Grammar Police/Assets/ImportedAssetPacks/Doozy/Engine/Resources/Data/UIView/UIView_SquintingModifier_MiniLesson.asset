@@ -15,5 +15,17 @@ MonoBehaviour:
   CategoryName: SquintingModifier_MiniLesson
   DatabaseType: 2
   Names:
-  - PoliceQuestion_PopUpPanel
+  - CallToAction
+  - CallToAction2
+  - GoFree-EndGame
+  - GoToJail
+  - MainMenu
   - MiniLesson
+  - MiniLesson_Introduction
+  - MiniLesson_Introduction_Pt1
+  - MiniLesson_Introduction_Pt2
+  - Quiz_Question_0
+  - Quiz_Question_1
+  - Quiz_Question_2
+  - Quiz_Question_3
+  - PoliceChaseHUD

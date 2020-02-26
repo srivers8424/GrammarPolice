@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 324c382687826e346abeb15fb20a2f89, type: 3}
+  m_Name: SceneAudio_MiniLesson
+  m_EditorClassIdentifier: 
+  mainSceneMusic:
+  - {fileID: 8300000, guid: 4ec44b07052d263408f74686cca95a17, type: 3}
+  auxSceneMusic:
+  - {fileID: 8300000, guid: 4d8aec66eb4517e4a8631bf5f190e2fa, type: 3}
+  ambientSound:
+  - {fileID: 8300000, guid: c650452ef0d82244dab76bede99a00ee, type: 3}
+  mainSceneMusicVolume: -20
+  ambientSoundVolume: -10
+  playInitTrack: 0

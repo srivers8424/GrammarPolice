@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 324c382687826e346abeb15fb20a2f89, type: 3}
+  m_Name: SquintingModifiers_SceneAudioSO
+  m_EditorClassIdentifier: 
+  mainSceneMusic:
+  - {fileID: 8300000, guid: f456d9c6217f24a4bbe286ca808d3c03, type: 3}
+  auxSceneMusic:
+  - {fileID: 8300000, guid: a8498be54b9240b40bbc5b93fe2bb08d, type: 3}
+  ambientSound:
+  - {fileID: 8300000, guid: 8851ae45c89188f49853986a38075495, type: 3}
+  - {fileID: 8300000, guid: e178f30cd0f765e4cacb832d36bd1ebf, type: 3}
+  mainSceneMusicVolume: -10
+  ambientSoundVolume: -10
+  playInitTrack: 1

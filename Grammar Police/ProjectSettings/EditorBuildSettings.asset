@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MiniLesson/SquintingModifiers.unity
+    guid: 647a9cd6cb041654ea626e639aa65692
   m_configObjects: {}

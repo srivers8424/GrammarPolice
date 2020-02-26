@@ -17,6 +17,8 @@ MonoBehaviour:
   - Custom
   - Example
   - General
+  - Mini Lesson
   Categories:
   - {fileID: 11400000, guid: 40f9e81ff80114a47a3721228ba749ed, type: 2}
   - {fileID: 11400000, guid: d6e43f4fd0d679e49a6798d043c4886b, type: 2}
+  - {fileID: 11400000, guid: f17bfb0a38be0ad458cb96d505791465, type: 2}
